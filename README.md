@@ -15,11 +15,11 @@
 <br />
 <br />
 
-Hi, I'm Swati Chanchal, a Data Scientist from India, Currently working as a Machine Learning Intern 🙍🏽‍♂️ Quantel .
+Hi, I'm Swati Chanchal, a Data Scientist from India, Currently working as a Data Science Intern 🙍🏽‍♂️ at Alpha.ai .
 Beside's programming, I enjoy listening music 🎧 , dancing 💃 and painting .
 - Here are some samples of my work 😁 :
  
-<img src="https://drive.google.com/file/d/1FDmRb1k5AErumfiwkKd0029EzYqLYn36/view?usp=sharing" width="400" height="500" alt="Mandala Art"  /><img src="https://drive.google.com/file/d/1Me_oZloSCuCeeRXy-nYT3mqJ48xiFi65/view?usp=sharing"  width="400" height="500" alt="Flower Patter" />
+<img src="https://github.com/Swatichanchal/image/blob/master/owl.png" width="400" height="500" alt="Mandala Art"  /><img src="https://github.com/Swatichanchal/image/blob/master/pattern.png"  width="400" height="500" alt="Flower Patter" />
 
 - Feel free to contact me related this art work also .
 
