@@ -1,19 +1,4 @@
-### Holla 👋, I'm Swati . 
-
-<a href="https://twitter.com/_swatichanchal">
-  <img align="left" alt="Swati Chanchal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/swati-chanchal/">
-  <img align="left" alt="Swati's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/swatichanchal/">
-  <img align="left" alt="Swati's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://medium.com/@swatisinghchanchaluni">
-  <img align="left" alt="Swati's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<br />
-<br />
+### Hola 👋, I'm Swati . 
 
 Hi, I'm Swati Chanchal, a Data Scientist from India, Currently working as a Data Science Intern 🙍🏽‍♂️ at Alpha.ai .
 Beside's programming, I enjoy listening music 🎧 , dancing 💃 and painting .
@@ -44,5 +29,22 @@ Beside's programming, I enjoy listening music 🎧 , dancing 💃 and painting .
 
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/Swatichanchal/Swati-Chanchal) :pencil:
 
+### Connect with me:
+<a href="https://twitter.com/_swatichanchal">
+  <img align="left" alt="Swati Chanchal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/swati-chanchal/">
+  <img align="left" alt="Swati's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/swatichanchal/">
+  <img align="left" alt="Swati's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://medium.com/@swatisinghchanchaluni">
+  <img align="left" alt="Swati's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<br />
+<br />
+
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=Swatichanchal&show_icons=true&hide_border=true)
+<img align='left' alt='Swati's Github Stats' src='https://github-readme-stats.vercel.app/api?username=Swatichanchal&count_private=true&show_icons=True&theme=radical' />>
 
