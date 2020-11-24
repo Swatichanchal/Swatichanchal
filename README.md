@@ -10,12 +10,14 @@ Beside's programming, I enjoy listening music 🎧 , dancing 💃 and painting .
 
    
 **Here's what you need to know about me :**
-- I'm currently learning data scientist tools (Data Analysis , Modeling , Deployment) 💻.
-- I love to code in Python 🐍.
+- 💻 I'm learning data scientist tools (Data Analysis , Modeling , Deployment) .
+- 👨🏽‍💻 I’m currently working on Computer vision technologies learning Object detection and Segmentation .
+- 🌱 I’m currently researching and building AI Products.
+- 🐍 I love to code in Python .
 - I've posted my very first article on Medium on Stack OverFlow Developer Survey , Have a look [Blog Post](https://medium.com/@swatisinghchanchaluni/developers-vs-non-developers-which-profession-is-better-8a18aeb4d65a)
-- Ask me about anything, I am happy to help 💬.
-- How to reach me: swatichan55@gmail.com 📫.
-- Looking for Data science opportunity  💼 .
+- 💬 Ask me about anything, I am happy to help .
+- 📫 How to reach me: swatichan55@gmail.com .
+- 💼 Looking for Data science opportunity .
 
 **Languages and Tools:**  
 
@@ -44,7 +46,8 @@ Beside's programming, I enjoy listening music 🎧 , dancing 💃 and painting .
 </a>
 <br />
 <br />
-
+<br />
+<br />
 
 ![Swati's github stats](https://github-readme-stats.vercel.app/api?username=Swatichanchal&show_icons=true&hide_border=true&theme=radical)
 
