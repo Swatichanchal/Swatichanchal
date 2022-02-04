@@ -48,7 +48,7 @@ Beside's programming, I enjoy listening music 🎧 , dancing 💃 and painting .
 <br />
 <br />
 <br />
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ![Visitor Count](https://profile-counter.glitch.me/{Swatichanchal}/count.svg)
 
 <br />
