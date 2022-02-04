@@ -49,7 +49,7 @@ Beside's programming, I enjoy listening music 🎧 , dancing 💃 and painting .
 <br />
 <br />
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/swatisingh.chanchal/count.svg?align=center)
+![visitors](https://komarev.com/ghpvc/?username=your-github-Swatichanchal&label=PROFILE+VIEWS)
 
 <br />
 <br />
