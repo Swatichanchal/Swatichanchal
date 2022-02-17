@@ -46,15 +46,11 @@ Beside's programming, I enjoy listening music 🎧 , dancing 💃 and painting .
 </a>
 <br />
 <br />
-<br />
-<br />
 
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br />
 ![Visitor Count](https://profile-counter.glitch.me/{Swatichanchal}/count.svg)
 
-<br />
-<br />
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Swatichanchal&show_icons=true&locale=en" alt="Swatichanchal" /></p>
  <! ![Swati's github stats](https://github-readme-stats.vercel.app/api?username=Swatichanchal&show_icons=true&hide_border=true&theme=radical) >
