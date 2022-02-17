@@ -1,6 +1,6 @@
 ### Hola 👋, I'm Swati . 
 
-Hi, I'm Swati Chanchal, a Constant Learner and a Data Scientist from India, Currently working as a Data Science Intern 🙍🏽‍♂️ at Alpha.ai .
+Hi, I'm Swati Chanchal, a Constant Learner and a Data Scientist from India, Currently working as a Software Engineer 🙍🏽‍♂️ at DXC Technology .
 Beside's programming, I enjoy listening music 🎧 , dancing 💃 and painting .
 - Here are some samples of my work 😁 :
  
