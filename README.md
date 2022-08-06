@@ -1,20 +1,17 @@
 ### Hola 👋, I'm Swati . 
 
-Hi, I'm Swati Chanchal, a Constant Learner and a Data Scientist from India, Currently working as a Software Engineer 🙍🏽‍♂️ at DXC Technology .
+Hi, I'm Swati Chanchal, a Constant Learner and a Data Scientist from India.
 Beside's programming, I enjoy listening music 🎧 , dancing 💃 and painting .
 - Here are some samples of my work 😁 :
  
 <img src="https://github.com/Swatichanchal/image/blob/master/owl.png" width="400" height="500" alt="Mandala Art"  /><img src="https://github.com/Swatichanchal/image/blob/master/pattern.png"  width="400" height="500" alt="Flower Patter" />
 
-- Feel free to contact me related this art work also .
+- Feel free to contact me related art work also .
 
    
 **Here's what you need to know about me :**
-- 💻 I'm learning data scientist tools (Data Analysis , Modeling , Deployment) .
 - 👨🏽‍💻 I’m currently working on Computer vision technologies learning Object detection and Segmentation .
-- 🌱 I’m currently researching and building AI Products.
 - 🐍 I love to code in Python .
-- I've posted my very first article on Medium on Stack OverFlow Developer Survey , Have a look [Blog Post](https://medium.com/@swatisinghchanchaluni/developers-vs-non-developers-which-profession-is-better-8a18aeb4d65a)
 - 💬 Ask me about anything, I am happy to help .
 - 📫 How to reach me: swatichan55@gmail.com .
 - 💼 Looking for Data science opportunity .
@@ -24,8 +21,6 @@ Beside's programming, I enjoy listening music 🎧 , dancing 💃 and painting .
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
