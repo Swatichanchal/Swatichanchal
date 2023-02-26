@@ -15,7 +15,7 @@ Beside's programming, I enjoy listening music 🎧 , dancing 💃 and painting .
 - 💬 Ask me about anything, I am happy to help .
 - 📫 How to reach me: swatichan55@gmail.com .
 - 💼 Looking for Data science opportunity .
-- 👨‍💻 Some juicy work of mine <a href="https://swatichanchal.github.io/swati05/"> alt="Check this out :wink:" </a>
+- 👨‍💻 Some juicy work of mine <a href="https://swatichanchal.github.io/swati05/"> Check this out :wink: </a>
 
 **Languages and Tools:**  
 
