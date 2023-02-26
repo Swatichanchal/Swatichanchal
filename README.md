@@ -10,7 +10,7 @@ Beside's programming, I enjoy listening music 🎧 , dancing 💃 and painting .
 
    
 **Here's what you need to know about me :**
-- 👨🏽‍💻 I’m currently working on Computer vision technologies learning Object detection and Segmentation .
+- 🧠 I’m currently working on solving healthcare problems using AI.
 - 🐍 I love to code in Python .
 - 💬 Ask me about anything, I am happy to help .
 - 📫 How to reach me: swatichan55@gmail.com .
